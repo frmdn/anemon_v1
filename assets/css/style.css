@@ -138,6 +138,29 @@ body {
 	margin-top: -5px;
 }
 
+/* Teams */
+.teams {
+    margin-top: 100px;
+}
+
+.teams h1 {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.teams figure h5 {
+    text-align: center;
+    color: #1C2C5D;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.teams figure p {
+    text-align: center;
+    font-size: 18px;
+    color: #1C2C5D;
+    font-weight: 200;
+}
 /* Footer */
 .footer {
     margin-top: 100px;
@@ -169,7 +192,7 @@ body {
     .nav-link:hover::after {
         content: '';
         display: block;
-        border-bottom: 3px solid #0B63DC;
+        border-bottom: 3px solid #ffc000;
         width: 50%;
         margin: auto;
         padding-bottom: 5px;

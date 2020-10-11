@@ -177,6 +177,12 @@ body {
     border-radius: 40px;
 }
 
+/* Halaman Gallery */
+
+.site {
+    margin: 50px 0;
+}
+
 
 /* Untuk Desktop */
 @media (min-width: 992px) { 

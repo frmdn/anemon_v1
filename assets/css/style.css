@@ -183,6 +183,11 @@ body {
     margin: 50px 0;
 }
 
+.workingspace video {
+    width: 100%;
+    height: auto;
+}
+
 
 /* Untuk Desktop */
 @media (min-width: 992px) { 
